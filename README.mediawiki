@@ -225,11 +225,11 @@ http://www.ensemblerobot.org/
 
 =Fork by NHP=
 
-* grabbed `midivis.py` from git@github.com:Gimpneek/midivis.git repo.  Modified to show step functions in the graph.  Now in examples.
+* grabbed <pre>midivis.py</pre> from git@github.com:Gimpneek/midivis.git repo.  Modified to show step functions in the graph.  Now in examples.
 * put midi files down in examples, including new 01AusmeinesHerz.midi from http://www.bachcentral.com/midiindexcomplete.html
 
-Run `midivis.py` with
-```
+Run <pre>midivis.py</pre> with
+<pre>
 python midivis.py midifile.midi
-```
+</pre>
 
